@@ -1,0 +1,19 @@
+[submodule "corba-java"]
+	path = corba-java
+	url = https://github.com/maurigre/corba-java.git
+[submodule "spring-boot-rabbitmq"]
+	path = spring-boot-rabbitmq
+	url = https://github.com/maurigre/spring-boot-rabbitmq.git
+
+[submodule "testes-de-integracao"]
+	path = testes-de-integracao
+	url = https://github.com/maurigre/testes-de-integracao.git
+[submodule "solid-java-rh"]
+	path = solid-java-rh
+	url = https://github.com/maurigre/solid-java-rh.git
+[submodule "design-patterns"]
+	path = design-patterns
+	url = https://github.com/maurigre/design-patterns.git
+[submodule "ApiLogQuaker"]
+	path = ApiLogQuaker
+	url = https://github.com/maurigre/ApiLogQuaker.git
